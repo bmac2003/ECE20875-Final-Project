@@ -1,6 +1,7 @@
 Purdue ECE20875 Python Data Science Final Project
 
 Unfortunately my code for this project is lost because it was stored in an folder with no backup on my previous computer that I was unable to recover.  The report describes the techniques I used to conduct the analysis so hopefully my project can be understood even without the programs written for it.
+This report can be found in report.pdf
 
 This is the assignment description for the path that I chose:
 
