@@ -19,3 +19,6 @@ _You will run prediction algorithm(s) for __ALL__ students for __ONE__ video, an
 2. Can student's video-watching behavior be used to predict a student's performance (i.e., average score `s` across all quizzes)?
 3. Taking this a step further, how well can you predict a student's performance on a *particular* in-video quiz question (i.e., whether they will be correct
 or incorrect) based on their video-watching behaviors while watching the corresponding video? You should use all student-video pairs in your analysis.
+
+
+***
